@@ -1,3 +1,7 @@
+In the below priority queue, an element with a maximum ASCII value will have the highest priority. The elements with higher priority are served first. 
+![image](https://github.com/harshsrivastava05/dsa-codes/assets/130855160/5082f712-14d3-4557-a546-46ac2662aedc)
+
+
 A priority queue is a type of queue that arranges elements based on their priority values. Elements with higher priority values are typically retrieved before elements with lower priority values.
 
 In a priority queue, each element has a priority value associated with it. When you add an element to the queue, it is inserted in a position based on its priority value. For example, if you add an element with a high priority value to a priority queue, it may be inserted near the front of the queue, while an element with a low priority value may be inserted near the back.
