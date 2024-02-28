@@ -1,3 +1,7 @@
+//Visit the root.
+//Traverse the left subtree, i.e., call Preorder(left->subtree)
+//Traverse the right subtree, i.e., call Preorder(right->subtree) 
+
 //Code implementation of Preorder traversal:
 // C program for different tree traversals
 #include <stdio.h>
