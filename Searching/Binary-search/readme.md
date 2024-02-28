@@ -2,7 +2,3 @@ Binary Search is defined as a searching algorithm used in a sorted array by repe
 ![image](https://github.com/harshsrivastava05/dsa-codes/assets/130855160/d56cf77d-80e7-4436-8355-7ad0bd9b7987)
 
 To apply Binary Search algorithm the data structure must be sorted.
-
-Time Complexity: O(log N)
-
-Auxiliary Space: O(1)
