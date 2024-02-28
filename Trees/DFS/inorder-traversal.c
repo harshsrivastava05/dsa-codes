@@ -1,3 +1,7 @@
+//Traverse the left subtree, i.e., call Inorder(left->subtree)
+//Visit the root.
+//Traverse the right subtree, i.e., call Inorder(right->subtree)
+
 //Code implementation of Inorder traversal.
 // C program for different tree traversals
 #include <stdio.h>
