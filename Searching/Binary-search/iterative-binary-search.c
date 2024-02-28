@@ -1,3 +1,6 @@
+//Time Complexity: O(log N)
+//Auxiliary Space: O(1)
+
 // C program to implement iterative Binary Search
 #include <stdio.h>
 
