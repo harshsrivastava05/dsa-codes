@@ -1,3 +1,8 @@
+//Time Complexity: 
+//Best Case: O(1)
+//Average Case: O(log N)
+//Worst Case: O(log N)
+
 // C program to implement recursive Binary Search
 #include <stdio.h>
 
