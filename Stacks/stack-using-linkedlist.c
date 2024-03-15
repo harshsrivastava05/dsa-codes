@@ -11,9 +11,7 @@ struct StackNode {
 
 struct StackNode* newNode(int data)
 {
-	struct StackNode* stackNode = 
-	(struct StackNode*)
-	malloc(sizeof(struct StackNode));
+	struct StackNode* stackNode = (struct StackNode*)malloc(sizeof(struct StackNode));
 	stackNode->data = data;
 	stackNode->next = NULL;
 	return stackNode;
